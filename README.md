@@ -28,4 +28,4 @@ Live App
 [Fast Checker App](https://factcheckerapp-kfv7asqtk8wrhaymtmadgy.streamlit.app/)
 
 GitHub Repository
-[GitHub Repo](https://github.com/Manish-baghel01/FactcheckerApp/tree/main)
+[GitHub Repository](https://github.com/Manish-baghel01/FactcheckerApp/tree/main)
